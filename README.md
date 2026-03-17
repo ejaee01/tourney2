@@ -1,4 +1,4 @@
-# ChessVerse
+# ChessTourney2 (Now Using AI!)
 
 A full chess platform in 3 files: `index.html`, `server.js`, `package.json`.
 
